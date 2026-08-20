@@ -1,2 +1,2 @@
-Built a predictive model to forecast Spotify user conversion to premium subscriptions, applying Filter, Wrapper, and Embedded methods with cross-validation to identify the most influential predictors and detect signals indicating a user's likelihood of upgrading to a paid membership.
-Applied SHAP analysis to interpret model outputs and validate feature importance, identifying device preference and podcast usage patterns as key drivers of premium conversion. 
+1. Built a predictive model to forecast Spotify user conversion to premium subscriptions, applying Filter, Wrapper, and Embedded methods with cross-validation to identify the most influential predictors and detect signals indicating a user's likelihood of upgrading to a paid membership.
+2. Applied SHAP analysis to interpret model outputs and validate feature importance, identifying device preference and podcast usage patterns as key drivers of premium conversion. 
